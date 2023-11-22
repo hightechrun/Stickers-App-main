@@ -1,0 +1,20 @@
+.card {
+    align-items: center;
+    border-radius: 4px;
+    border: 1px solid #17206e;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    background-color: #174e6e;
+}
+
+
+.card p {
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.card img {
+    max-height: 180px;
+}
